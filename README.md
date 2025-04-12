@@ -1,6 +1,6 @@
 # 🧠 Assignment: Python - Object-Oriented Programming (OOP)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheJangra/Assignment-Python---OOP/blob/main/Python_OOPs_Assignment.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheJangra/Python_OOPs_Assignment/blob/main/Python_OOPs_Assignment.ipynb)
 
 A beginner-friendly Python notebook covering essential Object-Oriented Programming (OOP) concepts. Includes concise theoretical explanations and practical coding exercises to deepen your understanding. Perfect for students, educators, and anyone learning OOP in Python.
 
