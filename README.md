@@ -8,7 +8,7 @@ A beginner-friendly Python notebook covering essential Object-Oriented Programmi
 
 ## 📘 What's Inside
 
-- ✅ 25+ theory questions with clear explanations
+- ✅ 25 theory questions with clear explanations
 - 🧪 18 practical Python OOP exercises with solutions
 - 🧱 Covers classes, objects, inheritance, polymorphism, encapsulation, abstraction, and more
 
@@ -24,8 +24,8 @@ You can either:
 2. **Run locally:**
    - Clone the repo:
      ```bash
-     git clone https://github.com/YourUsername/Assignment-Python---OOP.git
-     cd Assignment-Python---OOP
+     git clone https://github.com/TheJangra/Python_OOPs_Assignment.git
+     cd Python_OOPs_Assignment
      ```
    - Open the `.ipynb` file in **Jupyter Notebook** or **VS Code**
 
